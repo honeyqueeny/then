@@ -5,8 +5,8 @@
     "amount": "2000.00",
     "date": "12-03-2022",
     "marketplace": "CazhOn",
-	"status":"New Order"
-	  "status_bg":"#FFF0ED"
+	"status":"New Order",
+	  "status_bg":"#FFF0ED",
 	  "status_text":"#FFA28D"
   },
   {
@@ -15,8 +15,8 @@
     "amount": "3500.00",
     "date": "12-03-2022",
     "marketplace": "CazhOn",
-    "status":"New Order"
-      "status_bg":"#FFF0ED"
+    "status":"New Order",
+      "status_bg":"#FFF0ED",
 	"status_text":"#FFA28D"
   },
   {
@@ -25,8 +25,8 @@
     "amount": "95000.00", 
     "date": "15-03-2022",
     "marketplace": "ONDC",
-	"status":"Confirmed"
-	  "status_bg":"#DEDEE8"
+	"status":"Confirmed",
+	  "status_bg":"#DEDEE8",
 	  "status_text":"#ED647298"
   },
   {
@@ -35,8 +35,8 @@
     "amount": "1500.00",
 	"date": "15-03-2022",
     "marketplace": "CazhOn",
-	"status":"Confirmed"
-	  "status_bg":"#DEDEE8"
+	"status":"Confirmed",
+	  "status_bg":"#DEDEE8",
 	  "status_text":"#ED647298"
   },
   {
@@ -45,10 +45,9 @@
     "amount": "2000.00",
     "date": "18-03-2022",
     "marketplace": "ONDC",
-	"status":"Rejected"
-	  "status":"Confirmed"
-	  "status_bg":"#DEDEE8"
-	  "status_text":"#ED647298"
+	  "status":"Rejected",
+	  "status_bg":"#F5DADF",
+	  "status_text":"#FE5B5B"
   },
   {
     "order_id": "17849",
@@ -56,10 +55,9 @@
     "amount": "1700.00",
 	"date": "20-03-2022",
     "marketplace": "ONDC",
-	"status":"On delivery"
-	   "status":"Confirmed"
-	  "status_bg":"#DEDEE8"
-	  "status_text":"#ED647298"
+	"status":"On delivery",
+	  "status_bg":"#DFF0FA ",
+	  "status_text":"#309DDB"
   },
   {
     "order_id": "17894",
@@ -67,8 +65,8 @@
     "amount": "1500.00",
     "date": "26-03-2022",
     "marketplace": "CazhOn",
-	"status":"Completed"
-	  "status_bg":"#D9F3EA "
+	"status":"Completed",
+	  "status_bg":"#D9F3EA ",
 	  "status_text":"#17B781"
   },
   {
@@ -77,8 +75,8 @@
     "amount": "98000.00",
     "date": "26-03-2022",
     "marketplace": "ONDC",
-	"status":"New Order"
-	  "status_bg":"#FFF0ED "
+	"status":"New Order",
+	  "status_bg":"#FFF0ED ",
 	  "status_text":"#FFA28D"
   },
   {
@@ -87,8 +85,8 @@
     "amount": "100000.00",
     "date": "30-03-2022",
     "marketplace": "ONDC",
-	"status":"On delivery"
-	  "status_bg":"#DFF0FA"
+	"status":"On delivery",
+	  "status_bg":"#DFF0FA",
 	  "status_text":"#309DDB"
   },
   {
@@ -97,8 +95,8 @@
     "amount": "15000.00",
     "date": "01-04-2022",
     "marketplace": "ONDC",
-	"status":"Completed"
-	  "status_bg":"#D9F3EA"
+	"status":"Completed",
+	  "status_bg":"#D9F3EA",
 	  "status_text":"#17B781"
   },
   {
@@ -107,8 +105,8 @@
     "amount": "5000.00",
     "date": "09-04-2022",
     "marketplace": "ONDC",
-	"status":"Rejected"
-	  "status_bg":"#F5DADF"
+	"status":"Rejected",
+	  "status_bg":"#F5DADF",
 	  "status_text":"#FE5B5B"
   },
   {
@@ -117,8 +115,8 @@
     "amount": "3000.00",
     "date": "12-04-2022",
     "marketplace": "CazhOn",
-	"status":"Confirmed"
-	  "status_bg":"#DEDEE8"
+	"status":"Confirmed",
+	  "status_bg":"#DEDEE8",
 	  "status_text":"#ED647298"
   },
   {
@@ -127,8 +125,8 @@
     "amount": "500.00",
     "date": "16-04-2022",
     "marketplace": "CazhOn",
-	"status":"Confirmed"
-	  "status_bg":"#DEDEE8"
+	"status":"Confirmed",
+	  "status_bg":"#DEDEE8",
 	  "status_text":"#ED647298"
   },
   {
@@ -137,8 +135,8 @@
     "amount": "6000.00",
     "date": "19-04-2022",
     "marketplace": "ONDC",
-	"status":"On delivery"
-	  "status_bg":"#DFF0FA"
+	"status":"On delivery",
+	  "status_bg":"#DFF0FA",
 	  "status_text":"#309DDB"
   },
   {
@@ -147,8 +145,8 @@
     "amount": "15000.00",
     "date": "24-04-2022",
     "marketplace": "CazhOn",
-	"status":"Confirmed"
-	 "status_bg":"#DEDEE8"
+	"status":"Confirmed",
+	 "status_bg":"#DEDEE8",
 	  "status_text":"#ED647298"
   },
   {
@@ -156,8 +154,8 @@
     "amount": "2500.00",
     "date": "25-04-2022",
     "marketplace": "ONDC",
-	"status":"Rejected"
-	   "status_bg":"#F5DADF"
+	"status":"Rejected",
+	   "status_bg":"#F5DADF",
 	  "status_text":"#FE5B5B"
   },
   {
@@ -166,8 +164,8 @@
     "amount": "1500.00",
     "date": "25-04-2022",
     "marketplace": "ONDC",
-	"status":"New Order"
-	   "status_bg":"#FFF0ED"
+	"status":"New Order",
+	   "status_bg":"#FFF0ED",
 	  "status_text":"#FFA28D"
   },
   {
@@ -176,8 +174,8 @@
     "amount": "1500.00",
     "date": "29-05-2022",
     "marketplace": "ONDC",
-	"status":"New Order"
-	   "status_bg":"#FFF0ED"
+	"status":"New Order",
+	   "status_bg":"#FFF0ED",
 	  "status_text":"#FFA28D"
   },
   {
@@ -186,8 +184,8 @@
     "amount": "2000.00",
     "date": "18-05-2022",
     "marketplace": "ONDC",
-	"status":"Rejected"
-	  "status_bg":"#F5DADF"
+	"status":"Rejected",
+	  "status_bg":"#F5DADF",
 	  "status_text":"#FE5B5B"
   },
   {
@@ -196,8 +194,8 @@
     "amount": "3500.00",
     "date": "10-05-2022",
     "marketplace": "CazhOn",
-	"status":"Completed"
-	   "status_bg":"#D9F3EA"
+	"status":"Completed",
+	   "status_bg":"#D9F3EA",
 	  "status_text":"#17B781"
   },
   {
@@ -206,8 +204,8 @@
     "amount": "60000.00",
     "date": "15-05-2022",
     "marketplace": "ONDC",
-	"status":"Completed"
-	   "status_bg":"#D9F3EA"
+	"status":"Completed",
+	   "status_bg":"#D9F3EA",
 	  "status_text":"#17B781"
   },
   {
@@ -216,8 +214,8 @@
     "amount": "9500.00",
     "date": "26-06-2022",
     "marketplace": "CazhOn",
-	"status":"On delivery"
-	  "status_bg":"#DFF0FA"
+	"status":"On delivery",
+	  "status_bg":"#DFF0FA",
 	  "status_text":"#309DDB"
   },
   {
@@ -226,8 +224,8 @@
     "amount": "7500.00",
     "date": "26-06-2022",
     "marketplace": "ONDC",
-	"status":"Rejected"
-	    "status_bg":"#F5DADF"
+	"status":"Rejected",
+	    "status_bg":"#F5DADF",
 	  "status_text":"#FE5B5B"
   },
   {
@@ -236,8 +234,8 @@
     "amount": "65000.00",
     "date": "26-06-2022",
     "marketplace": "CazhOn",
-	"status":"Rejected"
-	    "status_bg":"#F5DADF"
+	"status":"Rejected",
+	    "status_bg":"#F5DADF",
 	  "status_text":"#FE5B5B"
   },
   {
@@ -246,8 +244,8 @@
     "amount": "1500.00",
 	"date": "25-06-2022",
     "marketplace": "CazhOn",
-	"status":"Rejected"
-	    "status_bg":"#F5DADF"
+	"status":"Rejected",
+	    "status_bg":"#F5DADF",
 	  "status_text":"#FE5B5B"
   }
   
