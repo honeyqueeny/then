@@ -6,6 +6,8 @@
     "date": "12-03-2022",
     "marketplace": "CazhOn",
 	"status":"New Order"
+	  "status_bg":"#FFF0ED"
+	  "status_text":"#FFA28D"
   },
   {
     "order_id": "17884",
@@ -13,7 +15,9 @@
     "amount": "3500.00",
     "date": "12-03-2022",
     "marketplace": "CazhOn",
-	"status":"New Order"
+    "status":"New Order"
+      "status_bg":"#FFF0ED"
+	"status_text":"#FFA28D"
   },
   {
     "order_id": "17885",
@@ -22,6 +26,8 @@
     "date": "15-03-2022",
     "marketplace": "ONDC",
 	"status":"Confirmed"
+	  "status_bg":"#DEDEE8"
+	  "status_text":"#ED647298"
   },
   {
     "order_id": "17870",
@@ -30,6 +36,8 @@
 	"date": "15-03-2022",
     "marketplace": "CazhOn",
 	"status":"Confirmed"
+	  "status_bg":"#DEDEE8"
+	  "status_text":"#ED647298"
   },
   {
     "order_id": "17817",
@@ -38,6 +46,9 @@
     "date": "18-03-2022",
     "marketplace": "ONDC",
 	"status":"Rejected"
+	  "status":"Confirmed"
+	  "status_bg":"#DEDEE8"
+	  "status_text":"#ED647298"
   },
   {
     "order_id": "17849",
@@ -46,6 +57,9 @@
 	"date": "20-03-2022",
     "marketplace": "ONDC",
 	"status":"On delivery"
+	   "status":"Confirmed"
+	  "status_bg":"#DEDEE8"
+	  "status_text":"#ED647298"
   },
   {
     "order_id": "17894",
@@ -54,6 +68,8 @@
     "date": "26-03-2022",
     "marketplace": "CazhOn",
 	"status":"Completed"
+	  "status_bg":"#D9F3EA "
+	  "status_text":"#17B781"
   },
   {
     "order_id": "17838",
@@ -62,6 +78,8 @@
     "date": "26-03-2022",
     "marketplace": "ONDC",
 	"status":"New Order"
+	  "status_bg":"#FFF0ED "
+	  "status_text":"#FFA28D"
   },
   {
     "order_id": "17921",
@@ -70,6 +88,8 @@
     "date": "30-03-2022",
     "marketplace": "ONDC",
 	"status":"On delivery"
+	  "status_bg":"#DFF0FA"
+	  "status_text":"#309DDB"
   },
   {
     "order_id": "17871",
@@ -78,6 +98,8 @@
     "date": "01-04-2022",
     "marketplace": "ONDC",
 	"status":"Completed"
+	  "status_bg":"#D9F3EA"
+	  "status_text":"#17B781"
   },
   {
     "order_id": "17895",
@@ -86,6 +108,8 @@
     "date": "09-04-2022",
     "marketplace": "ONDC",
 	"status":"Rejected"
+	  "status_bg":"#F5DADF"
+	  "status_text":"#FE5B5B"
   },
   {
     "order_id": "17896",
@@ -94,6 +118,8 @@
     "date": "12-04-2022",
     "marketplace": "CazhOn",
 	"status":"Confirmed"
+	  "status_bg":"#DEDEE8"
+	  "status_text":"#ED647298"
   },
   {
     "order_id": "17818",
@@ -102,6 +128,8 @@
     "date": "16-04-2022",
     "marketplace": "CazhOn",
 	"status":"Confirmed"
+	  "status_bg":"#DEDEE8"
+	  "status_text":"#ED647298"
   },
   {
     "order_id": "17897",
@@ -110,6 +138,8 @@
     "date": "19-04-2022",
     "marketplace": "ONDC",
 	"status":"On delivery"
+	  "status_bg":"#DFF0FA"
+	  "status_text":"#309DDB"
   },
   {
     "order_id": "17850",
@@ -118,6 +148,8 @@
     "date": "24-04-2022",
     "marketplace": "CazhOn",
 	"status":"Confirmed"
+	 "status_bg":"#DEDEE8"
+	  "status_text":"#ED647298"
   },
   {
     "location": "Chennai",
@@ -125,6 +157,8 @@
     "date": "25-04-2022",
     "marketplace": "ONDC",
 	"status":"Rejected"
+	   "status_bg":"#F5DADF"
+	  "status_text":"#FE5B5B"
   },
   {
     "order_id": "17898",
@@ -133,6 +167,8 @@
     "date": "25-04-2022",
     "marketplace": "ONDC",
 	"status":"New Order"
+	   "status_bg":"#FFF0ED"
+	  "status_text":"#FFA28D"
   },
   {
     "order_id": "17886",
@@ -141,6 +177,8 @@
     "date": "29-05-2022",
     "marketplace": "ONDC",
 	"status":"New Order"
+	   "status_bg":"#FFF0ED"
+	  "status_text":"#FFA28D"
   },
   {
     "order_id": "17851",
@@ -149,6 +187,8 @@
     "date": "18-05-2022",
     "marketplace": "ONDC",
 	"status":"Rejected"
+	  "status_bg":"#F5DADF"
+	  "status_text":"#FE5B5B"
   },
   {
     "order_id": "17820",
@@ -157,6 +197,8 @@
     "date": "10-05-2022",
     "marketplace": "CazhOn",
 	"status":"Completed"
+	   "status_bg":"#D9F3EA"
+	  "status_text":"#17B781"
   },
   {
     "order_id": "25364",
@@ -165,6 +207,8 @@
     "date": "15-05-2022",
     "marketplace": "ONDC",
 	"status":"Completed"
+	   "status_bg":"#D9F3EA"
+	  "status_text":"#17B781"
   },
   {
     "order_id": "25365",
@@ -173,6 +217,8 @@
     "date": "26-06-2022",
     "marketplace": "CazhOn",
 	"status":"On delivery"
+	  "status_bg":"#DFF0FA"
+	  "status_text":"#309DDB"
   },
   {
     "order_id": "25369",
@@ -181,6 +227,8 @@
     "date": "26-06-2022",
     "marketplace": "ONDC",
 	"status":"Rejected"
+	    "status_bg":"#F5DADF"
+	  "status_text":"#FE5B5B"
   },
   {
     "order_id": "25368",
@@ -189,6 +237,8 @@
     "date": "26-06-2022",
     "marketplace": "CazhOn",
 	"status":"Rejected"
+	    "status_bg":"#F5DADF"
+	  "status_text":"#FE5B5B"
   },
   {
     "order_id": "17872",
@@ -197,6 +247,8 @@
 	"date": "25-06-2022",
     "marketplace": "CazhOn",
 	"status":"Rejected"
+	    "status_bg":"#F5DADF"
+	  "status_text":"#FE5B5B"
   }
   
 ]
