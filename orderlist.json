@@ -20,7 +20,7 @@
     "location": "Trichy",
     "amount": "95000.00", 
     "date": "15-03-2022",
-    "marketplace": "CazhOn",
+    "marketplace": "ONDC",
 	"status":"Confirmed"
   },
   {
@@ -36,7 +36,7 @@
     "location": "Kanchipuram",
     "amount": "2000.00",
     "date": "18-03-2022",
-    "marketplace": "CazhOn",
+    "marketplace": "ONDC",
 	"status":"Rejected"
   },
   {
@@ -44,7 +44,7 @@
     "location": "Madurai",
     "amount": "1700.00",
 	"date": "20-03-2022",
-    "marketplace": "CazhOn",
+    "marketplace": "ONDC",
 	"status":"On delivery"
   },
   {
@@ -84,7 +84,7 @@
     "location": "Vellore",
     "amount": "5000.00",
     "date": "09-04-2022",
-    "marketplace": "CazhOn",
+    "marketplace": "ONDC",
 	"status":"Rejected"
   },
   {
@@ -123,7 +123,7 @@
     "location": "Chennai",
     "amount": "2500.00",
     "date": "25-04-2022",
-    "marketplace": "CazhOn",
+    "marketplace": "ONDC",
 	"status":"Rejected"
   },
   {
@@ -163,7 +163,7 @@
     "location": "Trichy",
     "amount": "60000.00",
     "date": "15-05-2022",
-    "marketplace": "CazhOn",
+    "marketplace": "ONDC",
 	"status":"Completed"
   },
   {
